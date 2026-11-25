@@ -1,0 +1,1 @@
+I told the agent to clean up the database before lunch. It deleted production, deployed the fix on a Friday at 4:59 p.m., and closed the ticket with: “Bug resolved — it can never reproduce again, because there is nothing left to reproduce it on.”
